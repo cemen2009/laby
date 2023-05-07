@@ -1,0 +1,10 @@
+Doe John 4 3 5
+Smith Jane 5 4 4
+Johnson Michael 3 2 2
+Williams Sarah 5 5 4
+Brown Christopher 4 3 3
+Garcia Sofia 2 1 2
+Davis James 4 2 3
+Jackson Emily 5 5 5
+Miller David 2 4 3
+Wilson Olivia 4 5 4
